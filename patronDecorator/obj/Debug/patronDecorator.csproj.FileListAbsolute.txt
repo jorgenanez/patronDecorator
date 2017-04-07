@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\patronDecorator\patronDecorator\bin\Debug\patronDecorator.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\patronDecorator\patronDecorator\bin\Debug\patronDecorator.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\patronDecorator\patronDecorator\bin\Debug\patronDecorator.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\patronDecorator\patronDecorator\obj\Debug\patronDecorator.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\patronDecorator\patronDecorator\obj\Debug\patronDecorator.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\patronDecorator\patronDecorator\obj\Debug\patronDecorator.pdb
